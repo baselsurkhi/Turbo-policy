@@ -1,7 +1,7 @@
 Privacy Policy
 Last updated: July 03, 2024
 
-This Privacy Policy explains how "Turbo" (referred to as "we," "us," or "our") collects, uses, and discloses your information when you use our services and your rights concerning privacy protection.
+This Privacy Policy explains how " TurboNet Fiber" (referred to as "we," "us," or "our") collects, uses, and discloses your information when you use our services and your rights concerning privacy protection.
 
 By using our app and services, you agree to the collection and use of your information in accordance with this Privacy Policy.
 
@@ -9,12 +9,12 @@ Interpretation and Definitions
 Definitions
 Account: A unique account created for you to access our services.
 Affiliate: Entities that control or are under common control with us.
-Application: Refers to Turbo, the software program provided by the company.
-Company: "Turbo" (referred to as "we," "us," or "our").
-Country: Refers to the country in which Turbo operates.
+Application: Refers to  TurboNet Fiber, the software program provided by the company.
+Company: " TurboNet Fiber" (referred to as "we," "us," or "our").
+Country: Refers to the country in which  TurboNet Fiber operates.
 Device: Any device capable of accessing our service, such as a computer, smartphone, or tablet.
 Personal Data: Information that relates to an identified or identifiable individual.
-Service: Refers to the application and services offered by Turbo.
+Service: Refers to the application and services offered by  TurboNet Fiber.
 Service Provider: Any third party that processes data on behalf of the company.
 Usage Data: Data collected automatically during service usage (e.g., IP address, device information).
 You: The individual using our services or representing a company or legal entity.
@@ -60,4 +60,4 @@ We may update this policy periodically. Updates will be communicated via the app
 Contact Us
 For questions about this Privacy Policy, please contact us at:
 
-Website: apple@turbonet.app
+Website: apple@ TurboNet Fibernet.app
